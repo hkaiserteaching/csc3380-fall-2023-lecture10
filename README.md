@@ -1,1 +1,5 @@
-# csc3380-fall-2023-lecture10
+# CSC3380 Object Oriented Programming using C++ (Fall 2023) - Code for Lecture 10
+
+See here for more information about [Lecture 10][lecture10]
+
+[lecture10]: https://hkaiserteaching.github.io/fall2023/csc3380/course/lecture10.html

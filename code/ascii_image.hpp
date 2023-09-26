@@ -131,7 +131,7 @@ inline image frame(image const& img, int gap = 1)
     ret.append(border);
 
     // append each line from v to result after adding '*'
-    std::string spaces(' ', gap);
+    std::string spaces(gap, ' ');
     for (auto const& s : img)
     {
         ret.append("*" + spaces + s + std::string(maxlen - s.size(), ' ') +
